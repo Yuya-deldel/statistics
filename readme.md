@@ -1,1 +1,1 @@
-This directory is used for learning bayesian statistics.
+This directory is used for learning statistics.
